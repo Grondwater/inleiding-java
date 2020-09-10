@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="G.Drawoval uitgevoerd en geplaatst. Op één lijn gezet met mijn vierkant.">
+    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="g.fillarc gebruikt &amp; toegepast.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/Test.java" afterDir="false" />
     </list>
@@ -109,7 +109,7 @@
       <updated>1599644044502</updated>
       <workItem from="1599644045663" duration="2025000" />
       <workItem from="1599646086015" duration="869000" />
-      <workItem from="1599661728870" duration="5599000" />
+      <workItem from="1599661728870" duration="8007000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;">
       <created>1599644516421</created>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599723742864</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="g.fillarc gebruikt &amp; toegepast.">
+      <created>1599725381737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599725381737</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +190,8 @@
     <MESSAGE value="Applet's toegevoegd &amp; color codes voor zowel background als text." />
     <MESSAGE value="g.drawline &amp; g.fillRoundRect geleerd &amp; toegepast. Gespeeld met de hoogte's en breedte's." />
     <MESSAGE value="G.Drawoval uitgevoerd en geplaatst. Op één lijn gezet met mijn vierkant." />
-    <option name="LAST_COMMIT_MESSAGE" value="G.Drawoval uitgevoerd en geplaatst. Op één lijn gezet met mijn vierkant." />
+    <MESSAGE value="g.fillarc gebruikt &amp; toegepast." />
+    <option name="LAST_COMMIT_MESSAGE" value="g.fillarc gebruikt &amp; toegepast." />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="7" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599646035118">
@@ -194,29 +202,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1599645897426" />
-    <state width="1237" height="104" key="GridCell.Tab.0.bottom" timestamp="1599724557053">
+    <state width="1237" height="104" key="GridCell.Tab.0.bottom" timestamp="1599728890936">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599724557053" />
-    <state width="1237" height="104" key="GridCell.Tab.0.center" timestamp="1599724557053">
+    <state width="1237" height="104" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599728890936" />
+    <state width="1237" height="104" key="GridCell.Tab.0.center" timestamp="1599728890935">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599724557053" />
-    <state width="1237" height="104" key="GridCell.Tab.0.left" timestamp="1599724557052">
+    <state width="1237" height="104" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599728890935" />
+    <state width="1237" height="104" key="GridCell.Tab.0.left" timestamp="1599728890935">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599724557052" />
-    <state width="1237" height="104" key="GridCell.Tab.0.right" timestamp="1599724557053">
+    <state width="1237" height="104" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599728890935" />
+    <state width="1237" height="104" key="GridCell.Tab.0.right" timestamp="1599728890936">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599724557053" />
+    <state width="1237" height="104" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599728890936" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1599646071576">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599646071576" />
-    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2" timestamp="1599723746699">
+    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2" timestamp="1599725401651">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599723746699" />
+    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599725401651" />
   </component>
 </project>
