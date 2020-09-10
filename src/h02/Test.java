@@ -16,7 +16,6 @@ public class Test extends Applet {
         g.fillRoundRect(10,100,110,110,50,50);
         g.drawOval(125,100,50,100);
         g.fillArc(175,150,100,50,90,90);
-
         g.drawLine(225,250,275,250);
         g.drawLine(225,250,250,225); //Code's voor driehoek.
         g.drawLine(275,250,250,225);
