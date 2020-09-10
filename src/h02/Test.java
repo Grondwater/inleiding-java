@@ -11,6 +11,8 @@ public class Test extends Applet {
 
     public void paint(Graphics g) {
         g.setColor(Color.black);
-        g.drawString("Hallo daapi's",50,50);
+        g.drawString("Hallo daapi's",50,68);
+        g.drawLine(50,70,270,70);
+        g.fillRoundRect(100,100,110,110,10,10);
     }
 }
