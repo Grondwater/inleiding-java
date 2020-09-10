@@ -13,8 +13,9 @@ public class Test extends Applet {
         g.setColor(Color.black);
         g.drawString("Hallo daapi's",50,68);
         g.drawLine(50,70,270,70);
-        g.fillRoundRect(75,100,110,110,50,50);
-        g.drawOval(10,100,50,100);
+        g.fillRoundRect(10,100,110,110,50,50);
+        g.drawOval(125,100,50,100);
+        g.fillArc(175,150,100,50,90,90);
     }
 
 
