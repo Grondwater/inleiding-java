@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="Applet's toegevoegd &amp; color codes voor zowel background als text.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Applet.Test">
@@ -108,7 +109,7 @@
       <updated>1599644044502</updated>
       <workItem from="1599644045663" duration="2025000" />
       <workItem from="1599646086015" duration="869000" />
-      <workItem from="1599661728870" duration="1031000" />
+      <workItem from="1599661728870" duration="3551000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;">
       <created>1599644516421</created>
@@ -124,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599646347660</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;">
+      <created>1599662918180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599662918180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Applet's toegevoegd &amp; color codes voor zowel background als text.">
+      <created>1599663010626</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599663010626</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;" />
+    <MESSAGE value="Applet's toegevoegd &amp; color codes voor zowel background als text." />
+    <option name="LAST_COMMIT_MESSAGE" value="Applet's toegevoegd &amp; color codes voor zowel background als text." />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="7" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599646035118">
@@ -155,29 +171,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1599645897426" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1599662724534">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1599723052958">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599662724534" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1599662724533">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599723052958" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1599723052958">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599662724533" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1599662724533">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599723052958" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1599723052958">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599662724533" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1599662724533">
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599723052958" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1599723052958">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599662724533" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599723052958" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1599646071576">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599646071576" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1599646350103">
+    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2" timestamp="1599663020252">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599646350103" />
+    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599663020252" />
   </component>
 </project>
