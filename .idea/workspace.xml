@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="g.fillarc gebruikt &amp; toegepast.">
+    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="Gelijkbenige driehoek toegevoegd.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h02/Opdracht5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/Test.java" afterDir="false" />
     </list>
@@ -27,6 +29,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,7 +66,14 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.Test">
+  <component name="RunManager" selected="Applet.Opdracht5">
+    <configuration name="Opdracht5" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Opdracht5" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Test" />
       <module name="inleiding-java" />
@@ -94,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Opdracht5" />
         <item itemvalue="Applet.Test" />
         <item itemvalue="Application.HalloRocDev" />
       </list>
@@ -109,7 +123,7 @@
       <updated>1599644044502</updated>
       <workItem from="1599644045663" duration="2025000" />
       <workItem from="1599646086015" duration="869000" />
-      <workItem from="1599661728870" duration="8007000" />
+      <workItem from="1599661728870" duration="11763000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;">
       <created>1599644516421</created>
@@ -167,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599725381737</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Gelijkbenige driehoek toegevoegd.">
+      <created>1599729031371</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599729031371</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Gelijkbenige driehoek toegevoegd.">
+      <created>1599729064991</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599729064991</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +219,8 @@
     <MESSAGE value="g.drawline &amp; g.fillRoundRect geleerd &amp; toegepast. Gespeeld met de hoogte's en breedte's." />
     <MESSAGE value="G.Drawoval uitgevoerd en geplaatst. Op één lijn gezet met mijn vierkant." />
     <MESSAGE value="g.fillarc gebruikt &amp; toegepast." />
-    <option name="LAST_COMMIT_MESSAGE" value="g.fillarc gebruikt &amp; toegepast." />
+    <MESSAGE value="Gelijkbenige driehoek toegevoegd." />
+    <option name="LAST_COMMIT_MESSAGE" value="Gelijkbenige driehoek toegevoegd." />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="7" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599646035118">
@@ -202,29 +231,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1599645897426" />
-    <state width="1237" height="104" key="GridCell.Tab.0.bottom" timestamp="1599728890936">
+    <state width="1237" height="104" key="GridCell.Tab.0.bottom" timestamp="1599809347272">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599728890936" />
-    <state width="1237" height="104" key="GridCell.Tab.0.center" timestamp="1599728890935">
+    <state width="1237" height="104" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599809347272" />
+    <state width="1237" height="104" key="GridCell.Tab.0.center" timestamp="1599809347272">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599728890935" />
-    <state width="1237" height="104" key="GridCell.Tab.0.left" timestamp="1599728890935">
+    <state width="1237" height="104" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599809347272" />
+    <state width="1237" height="104" key="GridCell.Tab.0.left" timestamp="1599809347271">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599728890935" />
-    <state width="1237" height="104" key="GridCell.Tab.0.right" timestamp="1599728890936">
+    <state width="1237" height="104" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599809347271" />
+    <state width="1237" height="104" key="GridCell.Tab.0.right" timestamp="1599809347272">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="104" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599728890936" />
+    <state width="1237" height="104" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599809347272" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1599646071576">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599646071576" />
-    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2" timestamp="1599725401651">
+    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2" timestamp="1599729067821">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599725401651" />
+    <state x="285" y="110" width="814" height="517" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599729067821" />
   </component>
 </project>

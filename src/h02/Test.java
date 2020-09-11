@@ -7,6 +7,7 @@ public class Test extends Applet {
     //Hier kan je commentaar/uitleg schrijven zonder dat de code dat leest.
     public void init() {
         setBackground(Color.cyan);
+        resize(500,500);
     }
 
     public void paint(Graphics g) {
@@ -19,6 +20,9 @@ public class Test extends Applet {
         g.drawLine(225,250,275,250);
         g.drawLine(225,250,250,225); //Code's voor driehoek.
         g.drawLine(275,250,250,225);
+
+        g.drawLine(225,150,225,150);
+
     }
 
 
