@@ -71,10 +71,22 @@ public class Test extends Applet {
         g.fillRoundRect(126,350,49,100,0,0);
         g.setColor(Color.blue);
         g.fillRoundRect(176,370,49,80,0,0);
-
+        //Ellips met gele achtergrond
+        g.setColor(Color.YELLOW);
+        g.fillArc(300,150,75,50,0,500);
+        g.setColor(Color.BLACK);
+        g.drawArc(300,150,75,50,0,500);
+        //Stoplicht
+        g.setColor(Color.BLACK);
+        g.fillRoundRect(450,100,5,50,0,0);
+        g.fillRoundRect(440,60,25,40,5,5);
+        g.setColor(Color.RED);
+        g.fillRoundRect(448,65,10,10,5,5);
+        g.setColor(Color.ORANGE);
+        g.fillRoundRect(448,75,10,10,5,5);
+        g.setColor(Color.GREEN);
+        g.fillRoundRect(448,85,10,10,5,5);
 
     }
-
-
 }
 
