@@ -13,7 +13,7 @@ public class Test extends Applet {
     public void paint(Graphics g) {
         g.setColor(Color.black);
         g.drawString("Hallo daapi's",100,68);
-        g.drawLine(100,70,270,70);
+        g.drawLine(100,70,200,70);
         g.setColor(Color.WHITE);
         g.fillRoundRect(10,100,110,110,50,50);
         g.setColor(Color.BLACK);
@@ -32,6 +32,21 @@ public class Test extends Applet {
         g.setColor(Color.WHITE);
         g.fillRoundRect(30,85,7,20,0,0);
         g.fillRoundRect(47,85,23,7,0,0);
+        //Nederlandse vlag
+        g.setColor(Color.black);
+        g.drawLine(225,23,225,100);
+        g.setColor(Color.RED);
+        g.fillRoundRect(226,25,25,5,0,0);
+        g.setColor(Color.WHITE);
+        g.fillRoundRect(226,30,25,5,0,0);
+        g.setColor(Color.BLUE);
+        g.fillRoundRect(226,35,25,5,0,0);
+        //Staaf diagram
+        g.setColor(Color.BLACK);
+        g.fillRoundRect(50,300,200,200,0,0);
+
+
+
 
     }
 
