@@ -86,6 +86,15 @@ public class Test extends Applet {
         g.fillRoundRect(448,75,10,10,5,5);
         g.setColor(Color.GREEN);
         g.fillRoundRect(448,85,10,10,5,5);
+        //Dobbelsteen
+        g.setColor(Color.WHITE);
+        g.fillRoundRect(408,100,20,20,3,3);
+        g.setColor(Color.BLACK);
+        g.fillRoundRect(412,114,4,4,2,2);
+        g.fillRoundRect(420,114,4,4,2,2);
+        g.fillRoundRect(412,105,4,4,2,2);
+        g.fillRoundRect(420,105,4,4,2,2);
+
 
     }
 }
