@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="Dobbelsteen toegevoegd &amp; uitgevoerd.">
-      <change afterPath="$PROJECT_DIR$/src/h02/Opdracht6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h02/Opdracht5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/Opdracht5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/Opdracht6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/Opdracht6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       </method>
     </configuration>
     <configuration name="Opdracht6" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.Opdracht6" />
+      <option name="MAIN_CLASS_NAME" value="h06.Opdracht6" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,6 +137,8 @@
       <workItem from="1599661728870" duration="22274000" />
       <workItem from="1599841474319" duration="332000" />
       <workItem from="1600065941302" duration="6491000" />
+      <workItem from="1600165884085" duration="1347000" />
+      <workItem from="1600241699847" duration="685000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;">
       <created>1599644516421</created>
