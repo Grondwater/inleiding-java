@@ -13,6 +13,7 @@ public class Opdracht6_3 extends Applet {
         positief1 = 343;
         positief2 = 432;
         antwoord = positief1 + positief2;
+        antwoord = antwoord * -1;
     }
 
     public void paint(Graphics g){
