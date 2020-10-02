@@ -18,7 +18,7 @@ public class Opdracht10_1 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString("Type een getal tussen de 1 en 10.",50,50);
+        g.drawString("Type een getal tussen de 1 en 10.",50,90);
         tekstvak.setLocation(50,100);
         g.drawString(getal, 50,150);
     }
@@ -31,8 +31,26 @@ public class Opdracht10_1 extends Applet {
                 getal = "Uw getal is 1";
             } else if (userInput.equals("2") )
                 getal = "Uw getal is 2";
+              else if (userInput.equals("3") )
+                  getal = "Uw getal is 3";
+              else if (userInput.equals("4") )
+                  getal = "Uw getal is 4";
+            else if (userInput.equals("5") )
+                getal = "Uw getal is 5";
+            else if (userInput.equals("6") )
+                getal = "Uw getal is 6";
+            else if (userInput.equals("7") )
+                getal = "Uw getal is 7";
+            else if (userInput.equals("8") )
+                getal = "Uw getal is 8";
+            else if (userInput.equals("9") )
+                getal = "Uw getal is 9";
+            else if (userInput.equals("10") )
+                getal = "Uw getal is 10";
+
+
             else {
-                getal = "....";
+                getal = "Incorrect!";
             }
             repaint();
         }
