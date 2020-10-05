@@ -27,30 +27,18 @@ public class Opdracht10_1 extends Applet {
 
         public void actionPerformed(ActionEvent e){
             String userInput = tekstvak.getText();
-            if (userInput.equals("1") ) {
-                getal = "Uw getal is 1";
-            } else if (userInput.equals("2") )
-                getal = "Uw getal is 2";
-              else if (userInput.equals("3") )
-                  getal = "Uw getal is 3";
-              else if (userInput.equals("4") )
-                  getal = "Uw getal is 4";
-            else if (userInput.equals("5") )
-                getal = "Uw getal is 5";
-            else if (userInput.equals("6") )
-                getal = "Uw getal is 6";
-            else if (userInput.equals("7") )
-                getal = "Uw getal is 7";
-            else if (userInput.equals("8") )
-                getal = "Uw getal is 8";
-            else if (userInput.equals("9") )
-                getal = "Uw getal is 9";
-            else if (userInput.equals("10") )
-                getal = "Uw getal is 10";
-
-
-            else {
-                getal = "Incorrect!";
+            switch (userInput) {
+                case "1" -> getal = "Uw getal is 1";
+                case "2" -> getal = "Uw getal is 2";
+                case "3" -> getal = "Uw getal is 3";
+                case "4" -> getal = "Uw getal is 4";
+                case "5" -> getal = "Uw getal is 5";
+                case "6" -> getal = "Uw getal is 6";
+                case "7" -> getal = "Uw getal is 7";
+                case "8" -> getal = "Uw getal is 8";
+                case "9" -> getal = "Uw getal is 9";
+                case "10" -> getal = "Uw getal is 10";
+                default -> getal = "Incorrect!";
             }
             repaint();
         }
