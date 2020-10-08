@@ -56,35 +56,35 @@ Button klik;
             int year = Integer.parseInt(jaarNummer.getText());
 
             if (monthNumber == 1) {
-                text = "januari 31 dag ";
+                text = "januari 31 dagen ";
             } else if (monthNumber == 2) {
                 if (year % 4 == 0) {
-                    text = "februari 29 dag";
+                    text = "februari 29 dagen";
                 } else {
-                    text = "februari 28 dag";
+                    text = "februari 28 dagen";
                 }
             } else if (monthNumber == 3) {
-                text = "maart 31 dag";
+                text = "maart 31 dagen";
             } else if (monthNumber == 4) {
-                text = "april 30 dag ";
+                text = "april 30 dagen ";
             } else if (monthNumber == 5) {
-                text = "mei 31 dag";
+                text = "mei 31 dagen";
             } else if (monthNumber == 6) {
-                text = "juni 30 dag";
+                text = "juni 30 dagen";
             } else if (monthNumber == 7) {
-                text = "juli 31 dag";
+                text = "juli 31 dagen";
             } else if (monthNumber == 8) {
-                text = "augustus 31 dag";
+                text = "augustus 31 dagen";
             } else if (monthNumber == 9) {
-                text = "september 30 dag";
+                text = "september 30 dagen";
             } else if (monthNumber == 10) {
-                text = "oktober 31 dag";
+                text = "oktober 31 dagen";
             } else if (monthNumber == 11) {
-                text = "november 30 dag";
+                text = "november 30 dagen";
             } else if (monthNumber == 12) {
-                text = "december 31 dag";
+                text = "december 31 dagen";
             } else {
-                text = "U hebt een verkeerd nummer ingetikt ..!";
+                text = "Geen geldige invoer!";
             }
 
             sticker.setText(text);
