@@ -11,10 +11,7 @@ public class Opdracht11_2 extends Applet {
     }
 
     public void paint(Graphics g) {
-        int teller;
-        int y = 0;
-
-        for (teller = 20; teller > 10; teller--) {
+        for (int teller = 20, y = 0; teller > 10; teller--, y = y + 20) {
             y += 20;
             g.drawString(" " + teller, 50, y);
         }
