@@ -1,5 +1,9 @@
 package h12;
 
-public class Opdracht12_3 {
+import java.applet.Applet;
+
+public class Opdracht12_3 extends Applet {
+
+
 
 }
