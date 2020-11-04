@@ -1,4 +1,4 @@
-package H12;
+package h12;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
