@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="Opdracht 13.1 gedaan en afgerond.">
-      <change afterPath="$PROJECT_DIR$/src/h13/Opdracht13_2.java" afterDir="false" />
-    </list>
+    <list default="true" id="85b8028b-8252-4f23-9810-f3fc23fc9cfb" name="Default Changelist" comment="Opdracht 13.2 gedaan en afgerond." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,16 +72,9 @@
       <recent name="h08" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.Opdracht13_2">
+  <component name="RunManager" selected="Applet.Opdracht13_3">
     <configuration name="Opdracht10_1" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_1" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Opdracht12_6" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="H12.Opdracht12_6" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,6 +89,13 @@
     </configuration>
     <configuration name="Opdracht13_2" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h13.Opdracht13_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht13_3" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.Opdracht13_3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Opdracht13_3" />
         <item itemvalue="Applet.Opdracht13_2" />
         <item itemvalue="Applet.Opdracht13_1" />
         <item itemvalue="Applet.Opdracht13_uitleg" />
         <item itemvalue="Applet.Opdracht10_1" />
-        <item itemvalue="Applet.Opdracht12_6" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +172,7 @@
       <workItem from="1605521703784" duration="1998000" />
       <workItem from="1605602802998" duration="4572000" />
       <workItem from="1605869620010" duration="1412000" />
-      <workItem from="1606733474868" duration="2840000" />
+      <workItem from="1606733474868" duration="3672000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;Hallo klas 8a&quot; to &quot;Hallo Cohort 0!&quot;">
       <created>1599644516421</created>
@@ -442,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606739361847</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Opdracht 13.2 gedaan en afgerond.">
+      <created>1606740407571</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1606740407571</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +466,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nieuwe Java class toegevoegd voor Opdracht 5" />
     <MESSAGE value="Huis, deur &amp; één raam opdracht uitgevoerd en toegevoegd." />
     <MESSAGE value="Nederlandse vlag toegevoegd &amp; uitgevoerd." />
     <MESSAGE value="Grafiek met gewichten van Valerie, Jeroen &amp; Hans toegevoegd &amp; uitgevoerd." />
@@ -486,7 +490,8 @@
     <MESSAGE value="Hoofdstuk 12; Opdracht12 5 &amp; 6 toegevoegd en afgerond;" />
     <MESSAGE value="Opdracht 12.6 en 12.5 Package name probleem opgelost." />
     <MESSAGE value="Opdracht 13.1 gedaan en afgerond." />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 13.1 gedaan en afgerond." />
+    <MESSAGE value="Opdracht 13.2 gedaan en afgerond." />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 13.2 gedaan en afgerond." />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="7" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600328833227">
@@ -505,22 +510,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1601379470678" />
-    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1606739321126">
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1606740235507">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606739321126" />
-    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1606739321126">
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606740235507" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1606740235507">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1606739321126" />
-    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1606739321125">
+    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1606740235507" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1606740235507">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1606739321125" />
-    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1606739321126">
+    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1606740235507" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1606740235507">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1606739321126" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1606740235507" />
     <state width="597" height="223" key="GridCell.Tab.1.bottom" timestamp="1601645435211">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
