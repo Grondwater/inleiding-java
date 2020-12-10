@@ -9,18 +9,18 @@ import java.util.Collections;
 
 public class Opdracht14_2 extends Applet {
 
-    Button but1;
+    Button knop1;
     String kaart[] = {"Schoppen","Harten","Klaver","Ruiten"},
-            number[] = {"Aas", "Heer", "Vrouw", "Boer", "Tien", "Negen", "Acht", "Zeven", "Zes", "Vijf", "Vier", "Drie", "Twee"};
+            nummer[] = {"Aas", "Heer", "Vrouw", "Boer", "Tien", "Negen", "Acht", "Zeven", "Zes", "Vijf", "Vier", "Drie", "Twee"};
     int current, y, x, thirtheen;
 
     ArrayList<String> card = new ArrayList<>();
 
     public void init() {
         setSize(1000,1000);
-        but1 = new Button("Ok");
-        but1.addActionListener( new But1Listener() );
-        add(but1);
+        knop1 = new Button("Ok");
+        knop1.addActionListener( new But1Listener() );
+        add(knop1);
         current = 0;
     }
 
@@ -44,7 +44,7 @@ public class Opdracht14_2 extends Applet {
             thirtheen = 13;
             for (int u = 0; u < 4; u++) {
                 for (int k = 0; k < 13; k++) {
-                    card.add(kaart[u] + " " + number[k]);
+                    card.add(kaart[u] + " " + nummer[k]);
                 }
             }
             Collections.shuffle(card);
