@@ -10,8 +10,8 @@ import java.util.Collections;
 public class Opdracht14_2 extends Applet {
 
     Button knop1;
-    String kaart[] = {"Schoppen","Harten","Klaver","Ruiten"},
-            nummer[] = {"Aas", "Heer", "Vrouw", "Boer", "Tien", "Negen", "Acht", "Zeven", "Zes", "Vijf", "Vier", "Drie", "Twee"};
+    String[] kaart = {"Schoppen","Harten","Klaver","Ruiten"};
+    String[] nummer = {"Aas", "Heer", "Vrouw", "Boer", "Tien", "Negen", "Acht", "Zeven", "Zes", "Vijf", "Vier", "Drie", "Twee"};
     int current, y, x, thirtheen;
 
     ArrayList<String> card = new ArrayList<>();
